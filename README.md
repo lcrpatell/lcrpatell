@@ -1,3 +1,3 @@
 Hi, I'm Liam Patell.
-I'm a B.Phil Philosophy student at the University of Oxford, where I was an undergraduate in Philosophy, Politics, and Economics.
+I'm an AI governance researcher. Before that, I did B.Phil in Philosophy at the University of Oxford, where I was also an undergraduate.
 You can reach me at lcrpatell [at] gmail [dot] com.
